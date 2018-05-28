@@ -1,4 +1,4 @@
-本程序是基于IAMXJ基础修改的
+本程序出自IAMXJB
 
 基于wordpress的微信小程序
 
